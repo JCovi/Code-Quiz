@@ -17,7 +17,7 @@ As a coding boot camp student, I want to take a timed quiz on JavaScript fundame
 ![Code Quiz Mock-Up](insert_mockup_image_url_here)
 
 ## Deployment
-- Application deployed at live URL: [Insert Live URL Here](insert_live_url_here)
+- Application deployed at live URL: https://jcovi.github.io/Code-Quiz/
 - GitHub repository URL: [Insert GitHub Repository URL Here](insert_github_repo_url_here)
 
 ## Usage
