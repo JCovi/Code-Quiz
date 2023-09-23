@@ -18,7 +18,7 @@ As a coding boot camp student, I want to take a timed quiz on JavaScript fundame
 
 ## Deployment
 - Application deployed at live URL: https://jcovi.github.io/Code-Quiz/
-- GitHub repository URL: [Insert GitHub Repository URL Here](insert_github_repo_url_here)
+- GitHub repository URL: https://github.com/JCovi/Code-Quiz
 
 ## Usage
 1. Click the "Start Quiz" button to begin the quiz.
