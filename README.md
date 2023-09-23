@@ -36,5 +36,4 @@ This project is licensed under the MIT License.
 
 ## Questions
 If you have any questions or suggestions, please contact me:
-- GitHub: [Your GitHub Profile](insert_github_profile_url_here)
-- Email: [Your Email Address](insert_email_address_here)
+- GitHub: https://github.com/JCovi
